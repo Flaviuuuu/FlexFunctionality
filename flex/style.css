@@ -1,0 +1,11 @@
+.container .elements {
+background-color: blue;
+border: 7px solid #cff29e;
+            
+        }
+.container  { 
+width: 1000px;
+height: 200px;
+display: flex;
+            
+ }
